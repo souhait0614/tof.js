@@ -1,6 +1,6 @@
 {
   "name": "tof.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "taiy (https://twitter.com/20041203t) の特徴的な誤字を再現するnodeモジュール",
   "main": "index.js",
   "repository": "https://github.com/hakunagi/tof.js.git",
