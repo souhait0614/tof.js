@@ -1,0 +1,12 @@
+{
+  "name": "tof.js",
+  "version": "1.0.0",
+  "description": "taiy (https://twitter.com/20041203t) の特徴的な誤字を再現するnodeモジュール",
+  "main": "index.js",
+  "repository": "https://github.com/hakunagi/tof.js.git",
+  "author": "hakunagi <hakunagi.rei@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@submarin/generator": "^1.0.0"
+  }
+}
